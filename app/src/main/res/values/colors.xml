@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    ************************ Assignment #HOMEWORK 01 *******************************************
+    *********************** File Name- activity_main.xml *************************************
+    ************************ Full Name- 1. Manali Ghare 2. Anup Deshpande (Group 19) ***********
+-->
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Green">#228425</color>
+    <color name="White">#ffffff</color>
+    <color name="Yellow">#ef9e23</color>
+    <color name="Red">#ad1103</color>
+</resources>
